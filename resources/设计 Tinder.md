@@ -1,4 +1,5 @@
-[原文]([http://highscalability.com/blog/2022/1/17/designing-tinder.html](http://highscalability.com/blog/2022/1/17/designing-tinder.html))
+[原文](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
+
 ![](https://raw.githubusercontent.com/HardwayLinka/image/master/51825355006_1f7f8b400e_n.jpg)
 # 问题陈述
 
