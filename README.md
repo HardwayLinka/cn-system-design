@@ -14,3 +14,4 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 
 ## 案例
 * [设计 uber](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Uber.md)
+* [设计 Tinder](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Tinder.md)
