@@ -13,4 +13,4 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 本项目会以实际案例出发，自顶向下地逐渐学习更细节的知识点。
 
 ## 案例
-* [设计 u](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Uber.md)
+* [设计 uber](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Uber.md)
