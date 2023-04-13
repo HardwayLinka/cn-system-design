@@ -17,3 +17,7 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 * [设计 Tinder](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Tinder.md)
 * vivo 互联网技术
   * [大数据平台架构设计探究](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%8E%A2%E7%A9%B6.md)
+* 阿里
+* 腾讯
+* 美团
+* 百度
