@@ -18,7 +18,7 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 * Tinder
   * [设计 Tinder](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/%E8%AE%BE%E8%AE%A1%20Tinder.md)
 * Instagram
-  * //
+  * [设计 Instagram](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/Instagram/%E8%AE%BE%E8%AE%A1%20Ins.md)
 * DropBox
   * //
 * Airbnb
