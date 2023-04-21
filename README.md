@@ -38,6 +38,10 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 * Snowflake
   * //
 * vivo 互联网技术
+  * [vivo 商城前端架构升级-总览篇](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/vivo%20%E5%95%86%E5%9F%8E%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7%20-%20%E6%80%BB%E8%A7%88%E7%AF%87.md)
+  * [vivo 商城前端架构升级—前后端分离篇](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/vivo%20%E5%95%86%E5%9F%8E%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7%E2%80%94%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%AF%87.md)
+  * [vivo 商城前端架构升级—多端统一探索、实践与展望篇](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/vivo%20%E5%95%86%E5%9F%8E%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7%E2%80%94%E5%A4%9A%E7%AB%AF%E7%BB%9F%E4%B8%80%E6%8E%A2%E7%B4%A2%E3%80%81%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%B1%95%E6%9C%9B%E7%AF%87.md)
+  * [vivo 全球商城：架构演进之路](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/vivo%20%E5%85%A8%E7%90%83%E5%95%86%E5%9F%8E%EF%BC%9A%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF.md)
   * [大数据平台架构设计探究](https://github.com/HardwayLinka/cn-system-design/blob/main/resources/vivo/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%8E%A2%E7%A9%B6.md)
 * 阿里
   * //
