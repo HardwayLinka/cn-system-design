@@ -1,25 +1,3 @@
----
-aliases: 
-tags: 网页
-url: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488706&idx=2&sn=9a2d3358cbf3acf0e06a7bd5626f2fd6&chksm=ebd86450dcafed468207470b8baca16f94f2e08f16c19132df562c7a357feffb009fdf7327cc&scene=178&cur_album_id=1500522652925526016#rd
-title: vivo 商城架构升级 - SSR 实战篇
-date: 2023-04-23 10:17:55
-summary: 
-date created: 星期日, 四月 23日 2023, 10:17:55 上午
-date modified: 星期日, 四月 23日 2023, 10:44:08 上午
----
-- [ ] 加粗 
-- [ ] 高亮
-- [ ] 总结
-
-> [!md] Metadata
-> **标题**:: vivo 商城架构升级 - SSR 实战篇
-> **日期**:: 2023-04-23 10:17:55
-> **链接**:: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488706&idx=2&sn=9a2d3358cbf3acf0e06a7bd5626f2fd6&chksm=ebd86450dcafed468207470b8baca16f94f2e08f16c19132df562c7a357feffb009fdf7327cc&scene=178&cur_album_id=1500522652925526016#rd
-
-# 总结
-- Node 服务器上启动一个服务，用来监测 Node 进程的 CPU 和内存使用率，设定一个阈值，当达到这个阈值时，停止 SSR，直接将 CSR 的入口文件 index.html 返回，实现降级。
-
 # 一、前言
 
 在前面几篇文章中，相信大家对 vivo 官网商城的前端架构演变有了一定的了解，从稳步推进前后端分离到小程序多端探索实践，团队不断创新尝试。
