@@ -54,6 +54,8 @@ Next, I will start using Chinese to give a brief introduction to the current pro
 ## 开源工具
 //
 ## 算法
-//
+[resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms)
 ## 领域知识
 //
+## 面试
+[soulmachine/system-design](https://github.com/soulmachine/system-design)
