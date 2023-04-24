@@ -1,44 +1,4 @@
----
 
-aliases: 
-tags: 网页
-url: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247492304&idx=1&sn=4f2a666cd60ce0297db5c20a763cb4b9&chksm=ebdb9242dcac1b54e234786ee3b2d60a873f304ee5c562410e95fbc4ef21f969c0113c7189e0&scene=178&cur_album_id=1500522652925526016#rd
-title: vivo 全球商城：商品系统架构设计与实践
-date: 2023-04-23 21:04:26
-summary: 
-date created: 星期日, 四月 23日 2023, 9:04:26 晚上
-date modified: 星期日, 四月 23日 2023, 10:03:13 晚上
-
----
-
-- [ ] 加粗 
-- [ ] 高亮
-- [ ] 总结
-
-> [!md] Metadata
-> **标题**:: vivo 全球商城：商品系统架构设计与实践
-> **日期**:: 2023-04-23 21:04:26
-> **链接**:: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247492304&idx=1&sn=4f2a666cd60ce0297db5c20a763cb4b9&chksm=ebdb9242dcac1b54e234786ee3b2d60a873f304ee5c562410e95fbc4ef21f969c0113c7189e0&scene=178&cur_album_id=1500522652925526016#rd
-
-# 总结
-
-- 稳定性
-  - 避免单机瓶颈
-  - 设置合理的超时时间 
-  - 业务限流降级 
-  - 监控 & 告警
-  - 熔断
-- 高性能 
-  - 多级缓存 
-  - 读写分离
-  - 接口限流 
-- redis 
-  - pipeline
-  - mget 
-- redis 单机瓶颈
-  - key 的散列 
-  - 数据一致性 
-- Caffeine 
 
 作者：vivo 官网商城开发团队 - Ju Changjiang
 
