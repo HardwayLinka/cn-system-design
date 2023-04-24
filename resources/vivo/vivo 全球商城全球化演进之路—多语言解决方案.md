@@ -1,26 +1,4 @@
----
 
-aliases: 
-tags: 网页
-url: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247493253&idx=2&sn=e82aad1dee7132e61b0553068c764857&chksm=ebdb9617dcac1f0130dab997e97be879b24dcd2deccafdfbdafa0684fc8a68d8e015bee5f8d4&scene=178&cur_album_id=1500522652925526016#rd
-title: vivo 全球商城全球化演进之路—多语言解决方案
-date: 2023-04-23 22:05:37
-summary: 
-date created: 星期日, 四月 23日 2023, 10:05:37 晚上
-date modified: 星期一, 四月 24日 2023, 9:31:43 上午
-
----
-
-- [ ] 加粗 
-- [ ] 高亮
-- [ ] 总结
-
-> [!md] Metadata
-> **标题**:: vivo 全球商城全球化演进之路—多语言解决方案
-> **日期**:: 2023-04-23 22:05:37
-> **链接**:: https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247493253&idx=2&sn=e82aad1dee7132e61b0553068c764857&chksm=ebdb9617dcac1f0130dab997e97be879b24dcd2deccafdfbdafa0684fc8a68d8e015bee5f8d4&scene=178&cur_album_id=1500522652925526016#rd
-
-# 总结
 
 作者：vivo 官网商城开发团队 - Sun Yanwu
 
